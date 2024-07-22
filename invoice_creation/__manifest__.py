@@ -26,7 +26,7 @@
     """,
     'author': "HAK Technologies",
     'website': "https://www.HAKTechnologies.com",
-    'version': '0.1',
+    'version': '0.2',
     'license': 'OPL-1',
     'images': ['static/description/banner.png'],
 
