@@ -28,7 +28,7 @@
     'website': "https://www.HAKTechnologies.com",
     'version': '0.1',
     'license': 'OPL-1',
-    'images': ['description/icon.png'],
+    'images': ['static/description/banner.png'],
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/15.0/odoo/addons/base/data/ir_module_category_data.xml
