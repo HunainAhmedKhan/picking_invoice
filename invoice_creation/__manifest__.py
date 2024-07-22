@@ -8,6 +8,7 @@
      This module adds a functionality to create invoices directly from stock picking. 
      Create invoice from Picking
      Create invoice from stock view
+     Invoice From Stock Picking
 
     Features:
     - Adds a 'Create Invoice' button on the stock picking form view.
