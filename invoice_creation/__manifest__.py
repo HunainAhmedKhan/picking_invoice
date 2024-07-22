@@ -2,7 +2,7 @@
 {
     'name': "Invoice from Picking",
 
-    'summary': "Invoice from Picking",
+    'summary': "invoice from stock",
 
     'description': """
      This module adds a functionality to create invoices directly from stock picking. 
